@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.navbar {
+    /*background-color: #28A745; #Cambio por bg-success linea 22*/
+    /*font-weight: 500; #Cambio por fw-bolder class linea 22*/
+}
+
+.navlogo {
+    width: 86px;
+    height: 25px;
+}
+
+.card img {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card-footer span {
+    /*color: #28A745; #Linea 58, 72, 85, 101, 115, 128*/
+    /*font-weight: 500; #Linea 58, 72, 85, 101, 115, 128*/
+    font-size: 20px;
+}
+
+.card-footer small {
+    font-size: 16px;
+}
+
+form {
+    /*background-color: #28A745; #Linea 137 */
+}
+
+label, .form-label {
+    /*font-weight: 500; #Linea 139 */
+    font-size: 24px;
+}
+
+input, .form-control {
+    /*font-weight: 300; #Linea 140, 143  */
+    margin: 10px 0px 10px 0px;
+}
+
+.footerlogo {
+    width: 82px;
+    height: 24px;
+}
